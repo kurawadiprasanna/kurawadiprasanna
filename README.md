@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kurawadiprasanna
-- 👀 I’m interested in developing Mobile Apps and Web Apps
-- 🌱 I’m currently learning react native
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in developing AI Based Applications along with Test Automation
+- 🌱 I’m currently learning Gen AI
+- 💞️ I’m looking to collaborate on Challenging tasks along with Test Automation
 - 📫 How to reach me ... Email:prasanna.qe@hotmail.com
 
 <!---
